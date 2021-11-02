@@ -34,6 +34,7 @@ class SeeWeather extends Command
     /**
      * Execute the console command.
      *
+     * git
      * @return mixed
      */
     public function handle()
